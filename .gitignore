@@ -1,0 +1,58 @@
+# Compiled Object files
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.dylib
+*.out # This includes your a.out file
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Debug files
+*.dSYM/
+
+# Makefile generated files
+Makefile.in
+Makefile
+
+# Dependency directories
+.deps
+
+# Autoconf generated files
+autom4te.cache
+config.status
+config.log
+configure
+*.cache
+*.config
+
+# Log files
+*.log
+
+# Other common directories not to include
+build/
+tmp/
+temp/
